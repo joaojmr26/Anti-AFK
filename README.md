@@ -1,3 +1,4 @@
+------------------------------------------------------------------------------------------------------------------------------------------
 # Português
 ## Anti-AFK
 Um simples [AutoHotkey](https://www.autohotkey.com/) script para você lidar com os timers AFK! <br />
@@ -24,3 +25,4 @@ Then run the Anti-AFK-roblox.ahk and press F1 to toggle it! <br />
 ### Postscript:
 This is designed for [Roblox](https://www.roblox.com/) !
 
+------------------------------------------------------------------------------------------------------------------------------------------
