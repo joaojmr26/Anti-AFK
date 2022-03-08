@@ -1,4 +1,5 @@
-# Anti-AFK
+# Português
+## Anti-AFK
 Um simples [AutoHotkey](https://www.autohotkey.com/) script para você lidar com os timers AFK! <br />
 
 ## Instalação:
@@ -12,8 +13,8 @@ Feito para o [Roblox](https://www.roblox.com/) !
 
 
 
-
-# Anti-AFK
+#English
+## Anti-AFK
 A simple Anti-AFK [AutoHotkey](https://www.autohotkey.com/) script to deal with AFK timers! <br />
 
 ## Installation:
