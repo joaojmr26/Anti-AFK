@@ -10,10 +10,10 @@ Depois disso rode o Anti-AFK-Roblox.ahk e aperte F1 para desativar ou ativar! <b
 Feito para o [Roblox](https://www.roblox.com/) !
 
 
+------------------------------------------------------------------------------------------------------------------------------------------
 
 
-
-#English
+# English
 ## Anti-AFK
 A simple Anti-AFK [AutoHotkey](https://www.autohotkey.com/) script to deal with AFK timers! <br />
 
